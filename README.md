@@ -1,0 +1,1 @@
+# vite-global-import-issue-reproduction
